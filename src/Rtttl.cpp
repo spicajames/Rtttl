@@ -13,9 +13,6 @@
  */
 #include "Rtttl.h"
 
-
-FLASH_STRING(song2,"Contra:d=4,o=6,b=220:a#,a#,c#6,a#,e.6,d#.6,c#6,a#,a#,c#6,a#,e.6,d#.6,c#6,a#,a#,c#6,a#,e.6,d#.6,a#,a#,c#6,a#,d#.6,e.6,f6,c6,c6,d#6,c6,f#.6,f6,d#6,c6,c6,d#6,c6,f#.6,f.6,d#6,c6,c6,d#6,c6,f#.6,f.6,d#6,c6");
-
 FLASH_STRING(playingSong,"");
 
 Rtttl::Rtttl(int buzzerPin) {
