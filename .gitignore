@@ -1,0 +1,9 @@
+.pioenvs
+.clang_complete
+.gcc-flags.json
+.travis.yml
+plataformio.ini
+*.zip
+lib/
+distrib/
+*.sh
