@@ -1,6 +1,6 @@
 # Rtttl
-This is an adaptation of a sample scketch from tone library*, it uses Rtttl
-which is a compact format por mono ringtones.
+This is an adaptation of a sample scketch from tone library By Brett Hagman,
+it uses Rtttl which is a compact format por mono ringtones.
 
 ## Why Rtttl?
 It's compact, its just a string you can paste in your code, no array
