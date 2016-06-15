@@ -2,8 +2,7 @@
 .clang_complete
 .gcc-flags.json
 .travis.yml
-plataformio.ini
+platformio.ini
 *.zip
 lib/
 distrib/
-*.sh
