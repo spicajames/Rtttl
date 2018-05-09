@@ -26,6 +26,7 @@ public:
         Rtttl(int buzzerPin);
         void play(_FLASH_STRING songInPlay);
         void updateMelody();
+        void stopTone();
 protected:
   #define NOTE_B0  31
   #define NOTE_C1  33
@@ -153,7 +154,6 @@ protected:
         unsigned long melodyLoopCounter;
 
       void playMelody();
-      void stopTone();
       void getNextNote();
 };
 
